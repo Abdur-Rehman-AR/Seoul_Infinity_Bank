@@ -79,6 +79,8 @@ b) Foreign Key Relationships:
 
 Below is the ER diagram representing the entities and relationships of the Seoul Infinity Bank system.
 
+![ER Diagram] (ER-Diagram.png)
+
 
 
 ==> Normalization
