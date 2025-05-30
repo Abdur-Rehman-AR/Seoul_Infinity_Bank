@@ -5,7 +5,9 @@ A Database-Integrated Web Application
 Project Type: Bank Management System
 
 Developer: Abdur Rehman
+
 Duration: 1 Month
+
 Technologies: HTML5 | CSS3 | JavaScript | PHP | MySQL | Apache (XAMPP)
 
 
