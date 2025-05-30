@@ -1,0 +1,68 @@
+body {
+
+    background-image: url('w2.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+    font-family: 'Georgia';
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+    margin: 80px;
+}
+
+#div_1 {
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+}
+
+#para_1 {
+    background: linear-gradient(to right, rgb(87, 3, 255), rgb(0, 2, 5));
+    font-size: 20px;
+    color: white;
+    border: 3px solid white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 80%;
+    height: 140px;
+}
+
+#img_1 {
+
+    max-height: 300px;
+    width: auto;
+}
+
+blockquote {
+
+    margin: 5% 50px 8%;
+    font-size: 40px;
+    font-family: Georgia;
+    color: white;
+    padding: 10px;
+}
+
+#pic_quote {
+    display: flex;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.about-us {
+    background: linear-gradient(to right, rgb(87, 3, 255), rgb(0, 2, 5));
+    font-size: 20px;
+    color: white;
+    border: 3px solid white;
+    padding: 20px;
+    border-radius: 20px;
+    width: 60%;
+    height: 80%;
+    margin-bottom: 15%;
+}
